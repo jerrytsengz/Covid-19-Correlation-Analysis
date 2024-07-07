@@ -34,5 +34,5 @@ Key figures include:
 
 ## Recommendation Report
 
-For a detailed exploration of the data, findings, and visualizations, please refer to the [Covid-19-Findings.pdf](./Covid-19-Findings.pdf).
+For a detailed exploration of the data, findings, and visualizations, please refer to the [Covid-19-Findings](./Covid-19-Findings.pdf).
 
