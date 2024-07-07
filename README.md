@@ -32,7 +32,7 @@ Key figures include:
 1. **Data Wrangling**: Filtering the data to include only relevant columns (sex, age_group, symptom_status) and removing unknown or missing values.
 2. **Visualization**: Using Python libraries like Seaborn and Matplotlib to create tables and pie charts that illustrate the distribution of symptom status by age and gender.
 
-## Recommendation Report
+## Presentation
 
 For a detailed exploration of the data, findings, and visualizations, please refer to the [Covid-19-Findings](./Covid-19-Findings.pdf).
 
